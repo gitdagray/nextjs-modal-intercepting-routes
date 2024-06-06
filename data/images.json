@@ -1,0 +1,19 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "title": "Americano 1",
+            "path": "http://localhost:3000/americano1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Americano 2",
+            "path": "http://localhost:3000/americano2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Americano 3",
+            "path": "http://localhost:3000/americano3.jpg"
+        }
+    ]
+}
